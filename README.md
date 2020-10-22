@@ -1,2 +1,2 @@
 # Hexagonal-Lights
-This is my Hexagonal Lights projects source code. Everything is commented to ease the understanding. 
+This is my Hexagonal Lights project source code. Everything is commented to ease the understanding. 
